@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Anton, I'm C++ developer
+My name is Anton, I'm C++ developer who is interested in game engine-related technologies. 
 
 <!-- ## Stack
 ![c++](https://img.shields.io/badge/C%2B%2B-red?style=for-the-badge&logo=cplusplus)
