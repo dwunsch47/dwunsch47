@@ -9,3 +9,12 @@ My name is Anton, I'm C++ developer who is interested in game engine-related tec
 
 -->
 
+## Stats
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=dwunsch47">
+  <img height=150 align="left" src="https://github-readme-stats.vercel.app/api?username=dwunsch47&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&hide=contribs" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dwunsch47">
+  <img height=150 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwunsch47&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+</a>
+</div>
